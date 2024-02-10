@@ -1,0 +1,17 @@
+h1, h2, h3{
+    font-size: 78px;
+    color: rgb(3, 7, 74);
+    font-family: "Times New Roman", Verdana;
+    background-color: rgb(236, 237, 254);
+    margin: 25px;
+
+}
+
+
+li {
+    font-family: "Times New Roman", Verdana;
+    font-size: 48px;
+    color: rgb(13, 19, 145);
+    text-decoration: none;
+    margin-left: 100px;
+}
